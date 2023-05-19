@@ -1,6 +1,8 @@
 ### Hi there 👋
+#### Design and Development
+![Design and Development](https://media.licdn.com/dms/image/D5616AQFFh8NVcS7sOg/profile-displaybackgroundimage-shrink_350_1400/0/1684518396290?e=1689811200&v=beta&t=7lZ4eI72Qb_JprB7PgaLw54i5y6doxR0WiIb1SaV5vY)
 
-👋 Hello, I'm shikha, a passionate UI/UX designer based in the vibrant city of Bangalore, India.
+I'm shikha, a passionate UI/UX designer based in the vibrant city of Bangalore, India.
 
 🎨 I am deeply fascinated by the intersection of art and technology, and how design can enhance the way people interact with digital products. My goal is to create intuitive, user-centric experiences that leave a lasting impression.
 
@@ -26,4 +28,6 @@
 Let's embark on a journey to create beautiful, user-centric experiences that make a difference! ✨
 
 
-[![shikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shikha-k-design)](https://github.com/shikha-k-design/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shikha-k-design)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/shikha-k-design)  
+
+
